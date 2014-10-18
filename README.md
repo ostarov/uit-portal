@@ -1,4 +1,4 @@
 uit-portal
 ==========
 
-University-IT Cooperation Web Portal
+Web Portal for University-IT Cooperation
